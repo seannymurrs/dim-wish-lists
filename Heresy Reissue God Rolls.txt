@@ -1,0 +1,22 @@
+title:Heresy Reissue God Rolls
+
+// Hollow Words - TheGamer God Roll (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=342027677&perks=1482024992,689005463,2010801679,2652708987
+
+
+// Cold Denial - TheGamer God Roll (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=558794124&perks=839105230,1885400500,3828510309,3047969693
+
+
+// Whispering Slab - TheGamer God Roll (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=690341468&perks=852209214,3429800428,201365942,2319119708
+
+
+// False Promises - TheGamer God Roll (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1390080550&perks=1482024992,1885400500,1119449540,124408337
+
+
